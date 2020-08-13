@@ -4,7 +4,7 @@
 :root {
     --bg-color: #708090;
     --main-color: #fff;
-    --border-color: rgba(193, 192, 192, 0.508);
+    --border-color: rgba(193, 192, 192, 0.500);
     --footer-color: #ddd;
     --positive-color: rgb(35, 138, 142);
     --negative-color: rgb(71, 83, 255);
